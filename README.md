@@ -8,7 +8,7 @@ The dataset contains 13,608 Udemy courses with details like price, rating, numbe
 
 **Source:** [Udemy Course Dataset on Google Drive](https://drive.google.com/uc?id=1rqn_eoGU0aN8QC-xK_s4xZ99pgwV1koF)
 
-Download the CSV and place it in the project root as `udemy.csv` before running the notebook.
+Download the CSV and place it in the project root as `udemy.csv` before running the notebook or just run the notebook directly.
 
 ## Key Findings
 
